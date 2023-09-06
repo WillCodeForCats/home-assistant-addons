@@ -2,7 +2,7 @@
 
 ## 4.12.10
 
-- Add ECDSA option.
+- Add ECDSA/RSA and elliptic curve option.
 
 ## 4.12.9
 
