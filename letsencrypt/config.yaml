@@ -17,8 +17,6 @@ map:
   - ssl:rw
   - share
 options:
-  domains:
-    - null
   email: null
   keytype: ecdsa
   keyfile: privkey.pem
